@@ -9,4 +9,3 @@
 	variable "instance_count" {}
 	variable "prometheus_cidr" {}
 	variable "zone_id" {}
-	variable "listener_arn" {}
