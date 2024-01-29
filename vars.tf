@@ -10,3 +10,5 @@ variable "instance_count" {}
 variable "prometheus_cidr" {}
 variable "zone_id" {}
 variable "listener_rule_priority" {}
+variable "alb_dns_name" {}
+variable "listener_arn" {}
